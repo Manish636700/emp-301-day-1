@@ -1,4 +1,4 @@
-package Inheritance.Super;
+package Day_2.Inheritance.Super;
 
 class Super1{
     int age;

@@ -1,4 +1,4 @@
-package Inheritance.multilevel;
+package Day_2.Inheritance.multilevel;
 
 class A
 {

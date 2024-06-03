@@ -1,6 +1,4 @@
-package Polymorphism;
-
-import java.util.Scanner;
+package Day_2.Polymorphism;
 
 class A{
     int a = 10;

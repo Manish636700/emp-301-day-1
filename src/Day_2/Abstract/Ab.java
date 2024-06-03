@@ -1,4 +1,4 @@
-package Abstract;
+package Day_2.Abstract;
 
 abstract class Ab {
     Ab()

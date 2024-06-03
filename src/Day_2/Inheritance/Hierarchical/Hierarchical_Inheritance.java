@@ -1,4 +1,4 @@
-package Inheritance.Hierarchical;
+package Day_2.Inheritance.Hierarchical;
 class A1
 {
     void m1()

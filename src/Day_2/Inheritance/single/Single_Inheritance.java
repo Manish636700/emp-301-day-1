@@ -1,11 +1,11 @@
-package Inheritance.single;
+package Day_2.Inheritance.single;
 
 
 class A
 {
     void m()
     {
-        System.out.println("single Inheritance 1");
+        System.out.println("single Day_2.Inheritance 1");
     }
 }
 class B extends A
@@ -13,7 +13,7 @@ class B extends A
     void m1()
     {
        // super.m();
-        System.out.println("single Inheritance 2");
+        System.out.println("single Day_2.Inheritance 2");
     }
 }
 
