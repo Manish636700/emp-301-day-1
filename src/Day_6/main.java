@@ -1,2 +1,4 @@
-package Day_6;public class maim {
+package Day_6;
+
+public class main {
 }
